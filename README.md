@@ -21,6 +21,7 @@ We begin by investigating the [LibriSpeech dataset](http://www.openslr.org/12/) 
 1. Clone the repository, and navigate to the downloaded folder.
 ```
 git clone https://github.com/Shreevathsa1/Speech-Recognition-using-LSTM-RNN.git
+cd Speech-Recognition-using-LSTM-RNN
 ```
 
 2. Create (and activate) a new environment with Python 3.10 and the `numpy` package.
