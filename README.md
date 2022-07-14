@@ -23,7 +23,7 @@ We begin by investigating the [LibriSpeech dataset](http://www.openslr.org/12/) 
 git clone https://github.com/Shreevathsa1/Speech-Recognition-using-LSTM-RNN.git
 ```
 
-2. Create (and activate) a new environment with Python 3.6 and the `numpy` package.
+2. Create (and activate) a new environment with Python 3.10 and the `numpy` package.
 
 	- __Linux__ or __Mac__: 
 	```
