@@ -73,8 +73,8 @@ pip install -r requirements.txt
 		- Extract the file.  Move the 'usr' directory to our C: drive.
 		- Go back to our terminal window from above.
 	```
-	rename C:\usr avconv
-    set PATH=C:\avconv\bin;%PATH%
+	rename C:\usr libav
+      set PATH=C:\libav\bin;%PATH%
 	```
 
 7. Obtain the appropriate subsets of the LibriSpeech dataset, and convert all flac files to wav format.
