@@ -139,7 +139,7 @@ def int_sequence_to_text(int_sequence):
             return text
         ch = index_map[c]
         text.append(ch)
-
+    return text
 
 """
 def int_sequence_to_text(int_sequence):
